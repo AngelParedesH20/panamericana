@@ -27,15 +27,6 @@ npm run dev:backend
 ```bash
 npm run dev:web
 ```
-
-| Dirección | Qué es |
-|---|---|
-| http://localhost:4000/salud | La API responde |
-| http://localhost:3000 | La web |
-| http://localhost:3000/admin/buses | Panel administrativo (módulo de ejemplo) |
-
-**La guía completa del flujo de trabajo está en [ARQUITECTURA_CLEAN.md](ARQUITECTURA_CLEAN.md).** Léela antes de escribir código.
-
 ---
 
 ## Estructura
